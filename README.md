@@ -1,0 +1,1 @@
+Added a shot counter
